@@ -1,6 +1,5 @@
 # snalarm
 
-````markdown
 # Outlook ServiceNow Alarm
 
 ## Overview
@@ -33,7 +32,6 @@ If the email remains unread, it will alarm again on the next poll.
 Install the required packages:
 ```bash
 pip install pywin32 pygame
-````
 
 ---
 
@@ -182,10 +180,3 @@ sound_path = r"C:\Path\To\MySound.wav"
 * **Silence alarm:** Press **Enter**
 * **Exit program:** **Ctrl+C**
 * **Poll interval:** change `poll_seconds` (e.g., `monitor_inbox_and_alarm(120)`)
-
-```
-
----
-
-Do you also want me to **bundle this with the Python script and `Ring08.wav` into a .zip project folder**? Or just keep it as a standalone `README.md`?
-```
