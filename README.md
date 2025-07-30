@@ -1,0 +1,2 @@
+# snalarm
+Outlook ServiceNow Alarm
